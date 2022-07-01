@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yuni-wih
+- 👋 Hi, I’m Yuni
 - 👀 I’m interested in listening to music, reading, coding, analyzing.
 - 🌱 I’m currently learning Python, PHP
 - 📫 How to reach me 
