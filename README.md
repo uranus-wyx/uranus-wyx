@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuni
 - 👀 I’m interested in listening to music, reading, coding, analyzing.
-- 🌱 I’m currently learning Python, PHP
+- 🌱 I’m currently learning Python, Go
 - 📫 How to reach me 
     。E-mail : blog880203@gmail.com 
 
