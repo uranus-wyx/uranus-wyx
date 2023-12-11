@@ -14,7 +14,8 @@
 
 ## Long Intro
 
-Hi there🫶🏻 I'm Yuni, a software engineer who wants to advanced skills in master program.
+Hi there🫶🏻!
+I'm Yuni, a software engineer who majored in data science and wants to advance my capacities with the grad program.
 
 Thanks to my prior career experiences in tech, I have been in Shopee involved in the development of automated testing procedures utilizing Python, significantly enhancing the efficiency of our website and application evaluations.
 
