@@ -14,12 +14,9 @@
 
 ## Long Intro
 
-Hi there🫶🏻!
-I'm Yuni, a software engineer who majored in data science and wants to advance my capacities with the grad program.
+Hi there🫶🏻!  
 
-Thanks to my prior career experiences in tech, I have been in Shopee involved in the development of automated testing procedures utilizing Python, significantly enhancing the efficiency of our website and application evaluations.
-
-In 2019, I established an official clothing website and administrated advertisements and posts on social media.
+I'm Yuni, as a software engineer with a background in data science, I am expanding my skills through a graduate program at the University of Colorado Boulder. Currently, I'm collaborating with a team in Taiwan to develop a project focused on applying LLMs and RAG agents to address AI hallucination in targeted fields. My experience in tech includes implementing automated testing solutions in Python at Shopee, which improved our website and app evaluation efficiency. Additionally, I launched an official clothing website in 2019, where I managed social media ads and content.  
 
 ## Languages and Tools
 
