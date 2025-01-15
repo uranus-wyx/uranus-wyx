@@ -1,6 +1,7 @@
 ## Short Intro
+🪧Actively Seeking Summer 2025 Internship Opportunities
 
-👩‍💻 Data Scientist(Python, SQL, R)
+👩‍💻 Data Scientist (Python, SQL, R)
 
 👩‍💻 Software Engineer (automated testing, Python, SQL, Go)
  
