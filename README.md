@@ -1,10 +1,12 @@
 ## Short Intro
-	
+
+👩‍💻 Data Scientist(Python, SQL, R)
+
+👩‍💻 Software Engineer (automated testing, Python, SQL, Go)
+ 
 💁‍♀️ Community Founder & Manager [@tienhuang.tw](https://www.instagram.com/tienhuang.tw/)
 
 👩‍🏫 Marketing Manager
-
-👩‍💻 Software Engineer (automated testing, Python, SQL, Go)
 
 🎮 Zelda 🤓 YYDS
 
