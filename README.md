@@ -19,7 +19,11 @@
 
 Hi there🫶🏻!  
 
-I'm Yuni, as a software engineer with a background in data science, I am expanding my skills through a graduate program at the University of Colorado Boulder. Currently, I'm collaborating with a team in Taiwan to develop a project focused on applying LLMs and RAG agents to address AI hallucination in targeted fields. My experience in tech includes implementing automated testing solutions in Python at Shopee, which improved our website and app evaluation efficiency. Additionally, I launched an official clothing website in 2019, where I managed social media ads and content.  
+I’m a Software Engineer with a passion for problem-solving and a background in Data Science. Currently, I’m pursuing a graduate degree at the University of Colorado Boulder while working with a Taiwan-based team to develop a project that uses Large Language Models (LLMs) and RAG agents to reduce AI hallucination in specific fields. This experience has deepened my understanding of AI applications and natural language processing.
+
+Previously, at Shopee, I created automated testing solutions in Python, improving website and app evaluation efficiency by over 30%. A few years earlier, I launched my own clothing website, managing everything from social media content to digital ads, and increased customer engagement by 25% in six months.
+
+Now, I’m actively seeking internship opportunities where I can contribute my skills and continue growing in AI, software development, and problem-solving. I’m excited to learn, collaborate, and make an impact through meaningful projects.  
 
 ## Languages and Tools
 
