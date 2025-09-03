@@ -1,5 +1,5 @@
 ## Short Intro
-🪧Actively Seeking Summer 2025 Internship Opportunities
+🪧Actively Seeking 2026 Full Time Opportunities
 
 👩‍💻 Data Scientist (Python, SQL, R)
 
