@@ -16,14 +16,14 @@
 🌱 Part of the movement to increase Diversity, Inclusion, Accessibility and Sustainability in Tech
 
 ## Long Intro
+⭐️⭐️⭐️⭐️⭐️
 
-Hi there🫶🏻!  
-
-I’m a Software Engineer with a passion for problem-solving and a background in Data Science. Currently, I’m pursuing a graduate degree at the University of Colorado Boulder while working with a Taiwan-based team to develop a project that uses Large Language Models (LLMs) and RAG agents to reduce AI hallucination in specific fields. This experience has deepened my understanding of AI applications and natural language processing.
-
-Previously, at Shopee, I created automated testing solutions in Python, improving website and app evaluation efficiency by over 30%. A few years earlier, I launched my own clothing website, managing everything from social media content to digital ads, and increased customer engagement by 25% in six months.
-
-Now, I’m actively seeking internship opportunities where I can contribute my skills and continue growing in AI, software development, and problem-solving. I’m excited to learn, collaborate, and make an impact through meaningful projects.  
+- 🎓 Master’s student in Data Science at CU Boulder with strong foundations in statistics, machine learning, data mining, and Python.
+- 🤖 Project: built EmotionFlow, a multimodal platform using LLMs and emotion recognition to enable empathetic dialogue and music recommendations.
+- 🩺 Internship: developed a deep learning system for nail disease detection with ResNet18, MobileNetV2, Grad-CAM, and calibration techniques.
+- 🎶 Research: analyzed 100k+ bioacoustic recordings with VQ-VAE to extract bird vocalization patterns for ecological monitoring.
+- 💻 Software engineering at Shopee: created automated Python testing pipelines, improving evaluation efficiency by 30%+.
+- 🚀 Passionate about applying AI and data-driven solutions to real-world challenges; actively seeking opportunities in AI, software development, and data science.
 
 ## Languages and Tools
 
